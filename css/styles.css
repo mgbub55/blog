@@ -1,0 +1,43 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+header {
+    background: linear-gradient(to right, #007bff, #6610f2);
+    color: white;
+}
+
+h1, h2 {
+    color: #343a40;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card img {
+    height: 200px;
+    object-fit: cover;
+}
+
+.form-control {
+    border-radius: 0;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
