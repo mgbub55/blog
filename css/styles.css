@@ -41,3 +41,16 @@ footer {
     background-color: #0056b3;
     border-color: #004085;
 }
+
+.fw-bold {
+    font-family: 'Great Vibes', cursive;
+    font-size: 48px;
+}
+
+.pacifico-font {
+    font-family: 'Pacifico', cursive;
+}
+
+.roboto-slab-font {
+    font-family: 'Roboto Slab', serif;
+}
